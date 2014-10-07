@@ -1,7 +1,0 @@
----
-applications:
-- name: fib-java
-  memory: 512M
-  instances: 1
-  domain: poc.platform.comcast.net
-  path: ./target/fib-0.0.1.war
